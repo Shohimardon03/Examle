@@ -1,5 +1,8 @@
 package com.company;
 
 public class App {
-    vsjbjhewkcfe
+    public static void main(String[] args) {
+        System.out.println("saas");
+        System.out.println("Hello world");
+    }
 }
